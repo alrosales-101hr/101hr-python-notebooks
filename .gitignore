@@ -1,0 +1,21 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# Exclude local data and supporting artifacts for this notebook-only archive
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.docx
+*.pptx
+*.png
+*.txt
