@@ -13,6 +13,19 @@ Archive of selected Jupyter notebooks from 101HR analysis work. This repository 
 - `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (4 clusters).ipynb`
 - `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (5 clusters).ipynb`
 - `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (5 clusters)-Copy1.ipynb`
+- `101HR - PhilHealth/Aggregation.ipynb`
+- `101HR - PhilHealth/Aggregation - 220508.ipynb`
+- `101HR - PhilHealth/Aggregation - 220616.ipynb`
+- `101HR - PhilHealth/Aggregation - 220726 - Stand-alone Claims.ipynb`
+- `101HR - PhilHealth/Aggregation - 220810 - 0 ACTUAL_AMT and INSTITUTION_NAME analysis.ipynb`
+- `101HR - PhilHealth/Aggregation - 220829 - Procedure Top 5 SV and TAT computation.ipynb`
+- `101HR - PhilHealth/Aggregation - 220905.ipynb`
+- `101HR - PhilHealth/Aggregation and Visualizations - 220807 - ACTUAL_AMT Processing.ipynb`
+- `101HR - PhilHealth/Med and Proc Codes experiment 211122.ipynb`
+- `101HR - PhilHealth/Testing - ACTUAL_AMT - Per Illness.ipynb`
+- `101HR - PhilHealth/Visualizations - ACTUAL_AMT.ipynb`
+- `101HR - PhilHealth/Visualizations - Box Plots.ipynb`
+- `101HR - PhilHealth/Visualizations - Bump Chart for ICD-10 and Proc Rankings.ipynb`
 
 ## Notes
 
