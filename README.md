@@ -4,28 +4,28 @@ Archive of selected Jupyter notebooks from 101HR analysis work. This repository 
 
 ## Included notebooks
 
-- `101HR - Bucu/FFM.ipynb`
-- `101HR - DOH/Merge Multiple SS.ipynb`
-- `101HR - Morales/210713 Morales Notebook.ipynb`
-- `101HR - Pacheco/Clustering Analysis - k-Prototype.ipynb`
-- `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (2 clusters).ipynb`
-- `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (3 clusters).ipynb`
-- `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (4 clusters).ipynb`
-- `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (5 clusters).ipynb`
-- `101HR - Pacheco/Clustering Analysis - k-Prototype with Scalers (5 clusters)-Copy1.ipynb`
-- `101HR - PhilHealth/Aggregation.ipynb`
-- `101HR - PhilHealth/Aggregation - 220508.ipynb`
-- `101HR - PhilHealth/Aggregation - 220616.ipynb`
-- `101HR - PhilHealth/Aggregation - 220726 - Stand-alone Claims.ipynb`
-- `101HR - PhilHealth/Aggregation - 220810 - 0 ACTUAL_AMT and INSTITUTION_NAME analysis.ipynb`
-- `101HR - PhilHealth/Aggregation - 220829 - Procedure Top 5 SV and TAT computation.ipynb`
-- `101HR - PhilHealth/Aggregation - 220905.ipynb`
-- `101HR - PhilHealth/Aggregation and Visualizations - 220807 - ACTUAL_AMT Processing.ipynb`
-- `101HR - PhilHealth/Med and Proc Codes experiment 211122.ipynb`
-- `101HR - PhilHealth/Testing - ACTUAL_AMT - Per Illness.ipynb`
-- `101HR - PhilHealth/Visualizations - ACTUAL_AMT.ipynb`
-- `101HR - PhilHealth/Visualizations - Box Plots.ipynb`
-- `101HR - PhilHealth/Visualizations - Bump Chart for ICD-10 and Proc Rankings.ipynb`
+- `101HR - Frequent Itemset Mining - Nutrition/FFM.ipynb`
+- `101HR - COVID-19 SS Processing/Merge Multiple SS.ipynb`
+- `101HR - ML Mortality Flu/210713 Morales Notebook.ipynb`
+- `101HR - Clustering Analysis Diabetes/Clustering Analysis - k-Prototype.ipynb`
+- `101HR - Clustering Analysis Diabetes/Clustering Analysis - k-Prototype with Scalers (2 clusters).ipynb`
+- `101HR - Clustering Analysis Diabetes/Clustering Analysis - k-Prototype with Scalers (3 clusters).ipynb`
+- `101HR - Clustering Analysis Diabetes/Clustering Analysis - k-Prototype with Scalers (4 clusters).ipynb`
+- `101HR - Clustering Analysis Diabetes/Clustering Analysis - k-Prototype with Scalers (5 clusters).ipynb`
+- `101HR - Clustering Analysis Diabetes/Clustering Analysis - k-Prototype with Scalers (5 clusters)-Copy1.ipynb`
+- `101HR - Claims Big Data/Aggregation.ipynb`
+- `101HR - Claims Big Data/Aggregation - 220508.ipynb`
+- `101HR - Claims Big Data/Aggregation - 220616.ipynb`
+- `101HR - Claims Big Data/Aggregation - 220726 - Stand-alone Claims.ipynb`
+- `101HR - Claims Big Data/Aggregation - 220810 - 0 ACTUAL_AMT and INSTITUTION_NAME analysis.ipynb`
+- `101HR - Claims Big Data/Aggregation - 220829 - Procedure Top 5 SV and TAT computation.ipynb`
+- `101HR - Claims Big Data/Aggregation - 220905.ipynb`
+- `101HR - Claims Big Data/Aggregation and Visualizations - 220807 - ACTUAL_AMT Processing.ipynb`
+- `101HR - Claims Big Data/Med and Proc Codes experiment 211122.ipynb`
+- `101HR - Claims Big Data/Testing - ACTUAL_AMT - Per Illness.ipynb`
+- `101HR - Claims Big Data/Visualizations - ACTUAL_AMT.ipynb`
+- `101HR - Claims Big Data/Visualizations - Box Plots.ipynb`
+- `101HR - Claims Big Data/Visualizations - Bump Chart for ICD-10 and Proc Rankings.ipynb`
 
 ## Notes
 
